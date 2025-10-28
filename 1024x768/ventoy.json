@@ -1,0 +1,252 @@
+{
+    "theme": {
+        "file": "/ventoy/themes/CRT-TV/theme.txt",
+        "gfxmode": "1024x768",
+        "display_mode": "GUI",
+        "serial_param": "--unit=0 --speed=9600",
+        "ventoy_left": "0%",
+        "ventoy_top": "100%",
+        "ventoy_color": "#eff0f1",
+        "fonts": [
+            "/ventoy/themes/CRT-TV/SamsungCRT_Font_32.pf2"
+        ]
+    },
+    "menu_class": [
+        {
+            "key": "4MLinux",
+            "class": "4MLinux"
+        },
+        {
+            "key": "AlpineLinux",
+            "class": "AlpineLinux"
+        },
+        {
+            "key": "android",
+            "class": "android"
+        },
+        {
+            "key": "anonymous",
+            "class": "anonymous"
+        },
+        {
+            "key": "centos",
+            "class": "centos"
+        },
+        {
+            "key": "artix",
+            "class": "artix"
+        },
+        {
+            "key": "kubuntu",
+            "class": "kubuntu"
+        },
+        {
+            "key": "AlmaLinux",
+            "class": "AlmaLinux"
+        },
+        {
+            "key": "ubuntu",
+            "class": "ubuntu"
+        },
+        {
+            "key": "xerolinux",
+            "class": "xerolinux"
+        },
+        {
+            "key": "unknown",
+            "class": "unknown"
+        },
+        {
+            "key": "pop-os",
+            "class": "pop-os"
+        },
+        {
+            "key": "arch",
+            "class": "arch"
+        },
+        {
+            "key": "linuxmint",
+            "class": "linuxmint"
+        },
+        {
+            "key": "opensuse",
+            "class": "opensuse"
+        },
+        {
+            "key": "elementary",
+            "class": "elementary"
+        },
+        {
+            "key": "debian",
+            "class": "debian"
+        },
+        {
+            "key": "deepin",
+            "class": "deepin"
+        },
+        {
+            "key": "solus",
+            "class": "solus"
+        },
+        {
+            "key": "antergos",
+            "class": "antergos"
+        },
+        {
+            "key": "archlinux",
+            "class": "archlinux"
+        },
+        {
+            "key": "arcolinux",
+            "class": "arcolinux"
+        },
+        {
+            "key": "chakra",
+            "class": "chakra"
+        },
+        {
+            "key": "crunchbang",
+            "class": "crunchbang"
+        },
+        {
+            "key": "devuan",
+            "class": "devuan"
+        },
+        {
+            "key": "edubuntu",
+            "class": "edubuntu"
+        },
+        {
+            "key": "endeavouros",
+            "class": "endeavouros"
+        },
+        {
+            "key": "fedora",
+            "class": "fedora"
+        },
+        {
+            "key": "frugalware",
+            "class": "frugalware"
+        },
+        {
+            "key": "gentoo",
+            "class": "gentoo"
+        },
+        {
+            "key": "gnu-linux",
+            "class": "gnu-linux"
+        },
+        {
+            "key": "kali",
+            "class": "kali"
+        },
+        {
+            "key": "kaos",
+            "class": "kaos"
+        },
+        {
+            "key": "korora",
+            "class": "korora"
+        },
+        {
+            "key": "lubuntu",
+            "class": "lubuntu"
+        },
+        {
+            "key": "macosx",
+            "class": "macosx"
+        },
+        {
+            "key": "mageia",
+            "class": "mageia"
+        },
+        {
+            "key": "Manjaro.i686",
+            "class": "Manjaro.i686"
+        },
+        {
+            "key": "manjaro",
+            "class": "manjaro"
+        },
+        {
+            "key": "Manjaro.x86_64",
+            "class": "Manjaro.x86_64"
+        },
+        {
+            "key": "Manjaro.x86_64",
+            "class": "Manjaro.x86_64"
+        },
+        {
+            "key": "Rocky",
+            "class": "Rocky"
+        },
+        {
+            "key": "sabayon",
+            "class": "sabayon"
+        },
+        {
+            "key": "siduction",
+            "class": "siduction"
+        },
+        {
+            "key": "steamos",
+            "class": "steamos"
+        },
+        {
+            "key": "void",
+            "class": "void"
+        },
+        {
+            "key": "xubuntu",
+            "class": "xubuntu"
+        },
+        {
+            "key": "nixos",
+            "class": "nixos"
+        },
+        {
+            "key": "win11",
+            "class": "win11"
+        },
+        {
+            "key": "winxp",
+            "class": "winxp"
+        },
+        {
+            "key": "winvista",
+            "class": "winvista"
+        },
+        {
+            "key": "windows",
+            "class": "windows"
+        },
+        {
+            "key": "hirens",
+            "class": "windows"
+        },
+        {
+            "key": "memtest",
+            "class": "memtest"
+        },
+        {
+            "key": "bsd",
+            "class": "bsd"
+        },
+        {
+            "key": "driver",
+            "class": "driver"
+        },
+        {
+            "key": "efi",
+            "class": "efi"
+        },
+        {
+            "key": "clonezilla",
+            "class": "clonezilla"
+        },
+        {
+            "key": "iso",
+            "class": "iso"
+        }
+    ]
+}
